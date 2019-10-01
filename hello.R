@@ -1,4 +1,4 @@
-myString <- "Hello, World!"
+myfirstString <- "Hello, World!"
 
-print ( myString)
+print ( myfirstString)
 
